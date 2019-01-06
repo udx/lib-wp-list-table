@@ -1,7 +1,7 @@
 {
-  "name": "usabilitydynamics/lib-wp-list-table",
+  "name": "udx/lib-wp-list-table",
   "description": "Advanced Ajax List Table & Filter library for Wordpress",
-  "homepage": "https://github.com/UsabilityDynamics/lib-wp-list-table",
+  "homepage": "https://github.com/udx/lib-wp-list-table",
   "keywords": [
     "wordpress",
     "wp-list-table",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "require": {
     "php": ">=5.3",
-    "usabilitydynamics/lib-ui": "~0.3"
+    "udx/lib-ui": "~0.3"
   },
   "autoload": {
     "classmap": [ "lib/classes" ]
